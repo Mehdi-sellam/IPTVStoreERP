@@ -5,7 +5,7 @@ This project is an ERP system developed for managing stock within an IPTV online
 ## Technologies Used:
 - **C#**
 - **ASP.NET**
-- **Forms**
+- **WebForms**
 - **Microsoft SQL Server** (Database is protected further information will be provided in the future)
 
 ---
