@@ -164,7 +164,7 @@ Source: [OpenReplay Blog on Ethical Considerations in Software Development](http
 
 ---
 
-## 3. References Back to Contents(#Contents)
+## 3. References #### [Back to Contents](#Contents)
 
 - **IEEE, 2020**. *Ethically Aligned Design: A Vision for Prioritizing Human Well-being with Autonomous and Intelligent Systems, First Edition*. IEEE Standards Association. Available at: https://ethicsinaction.ieee.org/ [Accessed 30 May 2024].
 - **European Union, 2018**. *General Data Protection Regulation (GDPR)*. Official Journal of the European Union. Available at: https://eur-lex.europa.eu/eli/reg/2016/679/oj [Accessed 30 May 2024].
