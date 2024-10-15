@@ -22,8 +22,8 @@ This project is a web applicatin ERP system, developed for managing stuff, custo
 2. [Ethics Case Study](#2-ethics-case-study)
    - [Ethics Checklist](#21-ethics-checklist)
 3. [References](#3-references)
-4. [Installation](#4-references)
-5. [Usage](#5-references)
+4. [Installation](#4-Installation)
+5. [Usage](#5-Usage)
 
 ---
 
