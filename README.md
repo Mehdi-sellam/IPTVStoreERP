@@ -1,12 +1,13 @@
 # Enterprise Resource Planning (ERP) System for IPTV Online Store
 
-This project is an ERP system developed for managing stock within an IPTV online store.
+This project is a web applicatin ERP system, developed for managing stuff, customers and stock within an IPTV online store.
 
 ## Technologies Used:
 - **C#**
 - **ASP.NET**
 - **WebForms**
 - **Microsoft SQL Server** (Database is protected, further information will be provided in the future)
+- **Microsoft Visual Studio 2022** (Development environment)
 
 ---
 
@@ -169,5 +170,45 @@ Source: [OpenReplay Blog on Ethical Considerations in Software Development](http
 - **IEEE, 2020**. *Ethically Aligned Design: A Vision for Prioritizing Human Well-being with Autonomous and Intelligent Systems, First Edition*. IEEE Standards Association. Available at: https://ethicsinaction.ieee.org/ [Accessed 30 May 2024].
 - **European Union, 2018**. *General Data Protection Regulation (GDPR)*. Official Journal of the European Union. Available at: https://eur-lex.europa.eu/eli/reg/2016/679/oj [Accessed 30 May 2024].
 - **ACM, 2018**. *ACM Code of Ethics and Professional Conduct*. Association for Computing Machinery. Available at: https://www.acm.org/code-of-ethics [Accessed 30 May 2024].
+
+
+
+---
+---
+Auth: Mehdi Sellam   05.05.24
+---
+---
+
+
+
+## Installation
+
+To install and run the ERP system locally, follow these steps:
+
+1. **Clone the repository**:
+    ```bash
+    git clone https://github.com/your-username/erp-iptv-online-store.git
+    ```
+   
+2. **Open in Visual Studio**:
+   - Launch Visual Studio and open the solution file (`.sln`).
+
+3. **Set up the Database**:
+   - naviggate to Sql Server Object Explorer from the View tab from the toolbar on the right top of the screen.
+   - click on add SQL Server.
+   - Enter the following credentials:
+   - - - Server Name: v00egd00002l.lec-admin.dmu.ac.uk
+   - - - Authentification: SQL Server Authentification
+   - - - User Name: ******
+   - - - Password: ******
+
+4. **Run the Application**:
+   - Build and run the solution using Visual Studio.
+
+---
+
+## Usage
+
+Once the system is up and running, choose one of the system services stuff, stock or customers management, then log in using the default credentials (admin credentials could be found in the users table). Once you are loged in will be able to perform operations like adding, editing, deleting, and searching.
 
 #### [Back to Contents](#Contents)
