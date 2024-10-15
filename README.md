@@ -22,8 +22,8 @@ This project is a web applicatin ERP system, developed for managing stuff, custo
 2. [Ethics Case Study](#2-ethics-case-study)
    - [Ethics Checklist](#21-ethics-checklist)
 3. [References](#3-references)
-4. [Installation](#4-Installation)
-5. [Usage](#5-Usage)
+4. [Installation](#Installation)
+5. [Usage](#Usage)
 
 ---
 
@@ -190,7 +190,7 @@ Source: [OpenReplay Blog on Ethical Considerations in Software Development](http
 
 
 
-## 4. Installation
+## Installation
 
 To install and run the ERP system locally, follow these steps:
 
@@ -216,7 +216,7 @@ To install and run the ERP system locally, follow these steps:
 
 ---
 
-## 5. Usage
+## Usage
 
 Once the system is up and running, choose one of the system services stuff, stock or customers management, then log in using the default credentials (admin credentials could be found in the users table). Once you are loged in will be able to perform operations like adding, editing, deleting, and searching.
 
