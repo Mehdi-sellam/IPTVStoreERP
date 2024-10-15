@@ -13,7 +13,7 @@ This project is an ERP system developed for managing stock within an IPTV online
 ## Individual Component: Stock Management System
 
 ### Contents:
-1. [Documentation](#documentation)
+1. [Documentation](#1-documentation)
    - [Class Diagram](#11-class-diagram)
    - [Stock Use Case Diagram](#12-stock-use-case-diagram)
    - [Individual Use Case Descriptions](#13-individual-use-case-descriptions)
