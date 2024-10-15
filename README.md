@@ -22,6 +22,8 @@ This project is a web applicatin ERP system, developed for managing stuff, custo
 2. [Ethics Case Study](#2-ethics-case-study)
    - [Ethics Checklist](#21-ethics-checklist)
 3. [References](#3-references)
+4. [Installation](#4-references)
+5. [Usage](#5-references)
 
 ---
 
@@ -30,14 +32,16 @@ This project is a web applicatin ERP system, developed for managing stuff, custo
 ### 1.1 Class Diagram
 
 ![Class Diagram](https://github.com/user-attachments/assets/3402279e-86a1-4c28-98af-d2f553c2182b)
-[Class-Diagram-Preview](<https://github.com/user-attachments/assets/3402279e-86a1-4c28-98af-d2f553c2182b>)
+
+[Diagram-Preview](<https://github.com/user-attachments/assets/3402279e-86a1-4c28-98af-d2f553c2182b>)
 
 ---
 
 ### 1.2 Stock Use Case Diagram
 
 ![Use Case Diagram](https://github.com/user-attachments/assets/5ddba117-8479-4ebd-be49-7f3e799dda2a)
-[Use Case Diagram-Preview](<https://github.com/user-attachments/assets/5ddba117-8479-4ebd-be49-7f3e799dda2a>)
+
+[Diagram-Preview](<https://github.com/user-attachments/assets/5ddba117-8479-4ebd-be49-7f3e799dda2a>)
 
 ---
 
@@ -178,13 +182,15 @@ Source: [OpenReplay Blog on Ethical Considerations in Software Development](http
 
 ---
 ---
-Auth: Dev-3 Mehdi Sellam   05.05.24
+
+#### Auth: Dev-3 Mehdi Sellam   05.05.24
+
 ---
 ---
 
 
 
-## Installation
+## 4. Installation
 
 To install and run the ERP system locally, follow these steps:
 
@@ -210,7 +216,7 @@ To install and run the ERP system locally, follow these steps:
 
 ---
 
-## Usage
+## 5. Usage
 
 Once the system is up and running, choose one of the system services stuff, stock or customers management, then log in using the default credentials (admin credentials could be found in the users table). Once you are loged in will be able to perform operations like adding, editing, deleting, and searching.
 
