@@ -30,12 +30,14 @@ This project is a web applicatin ERP system, developed for managing stuff, custo
 ### 1.1 Class Diagram
 
 ![Class Diagram](https://github.com/user-attachments/assets/3402279e-86a1-4c28-98af-d2f553c2182b)
+[Class-Diagram-Preview](<https://github.com/user-attachments/assets/3402279e-86a1-4c28-98af-d2f553c2182b>)
 
 ---
 
 ### 1.2 Stock Use Case Diagram
 
 ![Use Case Diagram](https://github.com/user-attachments/assets/5ddba117-8479-4ebd-be49-7f3e799dda2a)
+[Use Case Diagram-Preview](<https://github.com/user-attachments/assets/5ddba117-8479-4ebd-be49-7f3e799dda2a>)
 
 ---
 
@@ -47,7 +49,7 @@ This project is a web applicatin ERP system, developed for managing stuff, custo
 |-----------------------|---------------------------------------------------------------------------------|
 | **Use Case Name**      | Login to the system                                                             |
 | **Use Case Description** | Granting access to the system through authentication                            |
-| **Use Case Author(s)** | Mehdi                                                                           |
+| **Use Case Author(s)** | Dev-3                                                                           |
 | **Actor(s)**           | Stock Manager                                                                   |
 | **Locations**          | System user interface                                                           |
 | **Primary Pathway**    | Stock manager enters the system, enters username and password, submits login form, system validates credentials and grants access. |
@@ -62,7 +64,7 @@ This project is a web applicatin ERP system, developed for managing stuff, custo
 |-----------------------|---------------------------------------------------------------------------------|
 | **Use Case Name**      | Add Stock                                                                       |
 | **Use Case Description** | Process of adding new stock items to the system                                 |
-| **Use Case Author(s)** | Mehdi                                                                           |
+| **Use Case Author(s)** | Dev-3                                                                           |
 | **Actor(s)**           | Stock Manager                                                                   |
 | **Locations**          | System user interface                                                           |
 | **Primary Pathway**    | Stock manager logs in, navigates to the stock management page, enters stock details, clicks on OK, system validates and adds the stock. |
@@ -77,7 +79,7 @@ This project is a web applicatin ERP system, developed for managing stuff, custo
 |-----------------------|---------------------------------------------------------------------------------|
 | **Use Case Name**      | Edit Stock                                                                      |
 | **Use Case Description** | Updating details of existing stock items after searching for it.                |
-| **Use Case Author(s)** | Mehdi                                                                           |
+| **Use Case Author(s)** | Dev-3                                                                           |
 | **Actor(s)**           | Stock Manager                                                                   |
 | **Locations**          | System user interface                                                           |
 | **Primary Pathway**    | Stock manager logs in, navigates to the stock management page, finds specific stock, updates the details, clicks on the Edit button, system validates and updates stock. |
@@ -92,7 +94,7 @@ This project is a web applicatin ERP system, developed for managing stuff, custo
 |-----------------------|---------------------------------------------------------------------------------|
 | **Use Case Name**      | Delete Stock                                                                    |
 | **Use Case Description** | Removing stock items from the system.                                           |
-| **Use Case Author(s)** | Mehdi                                                                           |
+| **Use Case Author(s)** | Dev-3                                                                           |
 | **Actor(s)**           | Stock Manager                                                                   |
 | **Locations**          | System user interface                                                           |
 | **Primary Pathway**    | Stock manager logs in, navigates to the stock management page, finds the specific stock, clicks on Delete, system removes stock item. |
@@ -107,7 +109,7 @@ This project is a web applicatin ERP system, developed for managing stuff, custo
 |-----------------------|---------------------------------------------------------------------------------|
 | **Use Case Name**      | Validate Stock                                                                  |
 | **Use Case Description** | Ensuring stock details entered meet certain criteria before adding or updating.  |
-| **Use Case Author(s)** | Mehdi                                                                           |
+| **Use Case Author(s)** | Dev-3                                                                           |
 | **Actor(s)**           | Stock Manager                                                                   |
 | **Locations**          | System “internal”                                                               |
 | **Primary Pathway**    | Stock manager enters stock details to add or update, system checks validation rules, system confirms or rejects validity. |
@@ -122,7 +124,7 @@ This project is a web applicatin ERP system, developed for managing stuff, custo
 |-----------------------|---------------------------------------------------------------------------------|
 | **Use Case Name**      | Find Stock                                                                      |
 | **Use Case Description** | Searching for specific stock items based on Stock ID.                           |
-| **Use Case Author(s)** | Mehdi                                                                           |
+| **Use Case Author(s)** | Dev-3                                                                           |
 | **Actor(s)**           | Stock Manager                                                                   |
 | **Locations**          | System user interface                                                           |
 | **Primary Pathway**    | Stock manager logs in, navigates to the stock management page, enters Stock ID, clicks on the Find button, system displays stock details. |
@@ -137,7 +139,7 @@ This project is a web applicatin ERP system, developed for managing stuff, custo
 |-----------------------|---------------------------------------------------------------------------------|
 | **Use Case Name**      | List Stock                                                                      |
 | **Use Case Description** | Displaying a list of all stock items as a list from the database.               |
-| **Use Case Author(s)** | Mehdi                                                                           |
+| **Use Case Author(s)** | Dev-3                                                                           |
 | **Actor(s)**           | Stock Manager                                                                   |
 | **Locations**          | System user interface                                                           |
 | **Primary Pathway**    | Stock manager logs in, navigates to the stock management page, system displays all stock items. |
@@ -176,7 +178,7 @@ Source: [OpenReplay Blog on Ethical Considerations in Software Development](http
 
 ---
 ---
-Auth: Mehdi Sellam   05.05.24
+Auth: Dev-3 Mehdi Sellam   05.05.24
 ---
 ---
 
