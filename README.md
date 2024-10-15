@@ -17,9 +17,9 @@ This project is an ERP system developed for managing stock within an IPTV online
    - [Class Diagram](#11-class-diagram)
    - [Stock Use Case Diagram](#12-stock-use-case-diagram)
    - [Individual Use Case Descriptions](#13-individual-use-case-descriptions)
-2. [Ethics Case Study](#ethics-case-study)
-   - [Ethics Checklist](#22-ethics-checklist)
-3. [References](#references)
+2. [Ethics Case Study](#2-ethics-case-study)
+   - [Ethics Checklist](#21-ethics-checklist)
+3. [References](#3-references)
 
 ---
 
