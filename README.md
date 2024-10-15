@@ -1,4 +1,4 @@
-# Enterprise Resource Planning (ERP) System for IPTV Online Store
+# Enterprise Resource Planning (ERP) System for an IPTV Online Store
 
 This project is a web applicatin ERP system, developed for managing stuff, customers and stock within an IPTV online store.
 
