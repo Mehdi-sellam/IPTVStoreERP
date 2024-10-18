@@ -9,6 +9,7 @@ This project is a web applicatin ERP system, developed for managing stuff, custo
 - **Event Driven Model**
 - **Microsoft SQL Server** (Database is protected, further information will be provided in the future)
 - **Microsoft Visual Studio 2022** (Development environment)
+- **Unit Testing**
 
 ---
 
