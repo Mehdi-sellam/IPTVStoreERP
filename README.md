@@ -6,7 +6,7 @@ This project is a web applicatin ERP system, developed for managing stuff, custo
 - **C#**
 - **ASP.NET**
 - **WebForms**
-- **Event Driven architecture**
+- **Event Driven Architecture**
 - **Microsoft SQL Server** (Database is protected, further information will be provided in the future)
 - **Microsoft Visual Studio 2022** (Development environment)
 - **Unit Testing**
