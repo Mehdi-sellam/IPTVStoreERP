@@ -197,7 +197,7 @@ To install and run the ERP system locally, follow these steps:
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/erp-iptv-online-store.git
+    git clone https://github.com/mehdi-sellam/IPTVStoreERP.git
     ```
    
 2. **Open in Visual Studio**:
